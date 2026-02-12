@@ -41,6 +41,10 @@ public class Main {
             System.out.println("The subject limit is 10.");
             scanner.close();
             return;
+        } else if (subjects_amount < 0) {
+            System.out.println("Please use a positive number.");
+            scanner.close();
+            return;
         }
 
         String[] numbering = {"first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "nineth", "tenth"};
