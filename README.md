@@ -17,7 +17,7 @@
   <h3>🖥️ Using</h3>
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=pycharm,vscode,visualstudio,ubuntu,windows&perline=7" 
+      src="https://skillicons.dev/icons?i=vscode,arch&perline=7" 
       alt="IDEs and Operating Systems"
     />
   </a>
